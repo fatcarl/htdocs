@@ -49,7 +49,7 @@
         <h1>Success!</h1>
         <p class="lead">We'd like to thank our 2014 Platinum Sponsors for helping us put on another successful Professional Night:</p>
         <div id="sponsor-logo">
-        <img src="/images/aelogo.jpg" width="360" height="150">       <img src="/images/Binnie-HS-large.jpg" width="360" height="150">    
+        <img src="/images/aelogo.jpg" width="360" height="150">       <img src="/images/Binnie-HS-large.jpg" width="360" height="85">    
         <p> <img src="/images/hatch.jpeg" width="360" height="150"> 	<img src="/images/golder.jpeg" width="360" height="150"></p>
         </div>
       </div>
