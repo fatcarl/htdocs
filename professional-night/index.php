@@ -59,12 +59,12 @@
         <div class="col-lg-4">
           <h2>All Sponsors</h2>
          <p>The BCIT Student Chapter is thankful for contributions from all sponsors. Please take a moment to recognize this years sponsors.</p>
-          <p><a class="btn btn-primary" href="/sponsors" role="button">View details &raquo;</a></p>
+          <p><a class="btn btn-primary" href="/professional-night/sponsors.php" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-lg-4">
           <h2>Professional Night</h2>
           <p>This year, our 8th annual professional night is being held on February 20, 2014. The purpose of this event is to give professionals the opportunity to network and discuss career paths with students. The event also allows students to develop a better understanding of the Civil Engineering Industry. </p>
-          <p><a class="btn btn-primary" href="/professional-night" role="button">View details &raquo;</a></p>
+          <p><a class="btn btn-primary" href="/professional-night/pronight.php" role="button">View details &raquo;</a></p>
        </div>
         <div class="col-lg-4">
           <h2>Social Events and Competitions</h2>

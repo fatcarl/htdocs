@@ -20,6 +20,8 @@
     <link href="justified-nav.css" rel="stylesheet">
     
     <link href="/css/main.css" rel="stylesheet">
+    
+    <link href='http://fonts.googleapis.com/css?family=Ledger' rel='stylesheet' type='text/css'>
    
     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
@@ -66,7 +68,7 @@
              	 <h1>Welcome New Students!</h1>
              </div>
               <p>Welcome to BCIT Civil Engineering's Student Society. The BCIT Chapter of the CSCE is here to help students build connections and get the most out of their BCIT experience. From student competitions and educational seminars to social events and sports, the CSCE can help!</p>
-              <p><a class="btn btn-lg btn-primary" href="/about" role="button">Learn More!</a></p>
+              <p><a class="btn btn-lg btn-primary" href="/about" role="button">Learn more</a></p>
             </div>
           </div>
         </div>
@@ -74,10 +76,12 @@
           <img src="/images/Troitsky1.jpg" alt="Second slide">
           <div class="container">
             <div class="carousel-caption">
+            	<div class="carousel-caption-header">
               <h1>Get out there!</h1>
+            	</div>
               <p>Build bridges and crush them! The CSCE makes it possible. Whether it's competitions or competitive sports, we organize and fund too many student activities to list here.
               </p>
-              <p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more!</a></p>
+              <p><a class="btn btn-lg btn-primary" href="/about" role="button">Learn more</a></p>
             </div>
           </div>
         </div>
@@ -85,9 +89,11 @@
           <img src="/images/pronight.jpg" alt="Third slide">
           <div class="container">
             <div class="carousel-caption">
+              <div class="carousel-caption-header">
               <h1>Put your knowledge to work.</h1>
+              </div>
               <p>The CSCE helps you put it all together by organizing our annual professional night. Members have the opportunity to meet leaders in the local engineering community at an informal evening where we thank our sponsors for making it all possible.</p>
-              <p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>
+              <p><a class="btn btn-lg btn-primary" href="/professional-night" role="button">Learn more</a></p>
             </div>
           </div>
         </div>

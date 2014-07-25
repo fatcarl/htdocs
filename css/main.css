@@ -11,7 +11,7 @@
 #myCarousel .carousel-indicators ul, ol { margin-top: 0; margin-bottom: 0px; }
 
 
-.masthead .text-muted { text-align: center; font-size: 3.5em; }
+.masthead .text-muted {  font-variant: small-caps; font-weight: bold; text-align: center; font-size: 3.5em; padding-right: 20px; }
 
 #sponsor-logo img { margin: 10px 10px; }
 #sponsor-logo { padding: 20px; background-color: #fff; border-radius: 10px; }

@@ -1,4 +1,4 @@
-<h3 data-brackets-id='181' class="text-muted"> <img src="/images/Civil.png" alt="retro civil logo" width="88" height="88"> BCIT CSCE Student Chapter</h3>
+<h3 data-brackets-id='181' class="text-muted"> <img src="/images/bcitlogo.jpeg" width="188" height="88"> BCIT CSCE Student Chapter <img src="/images/cscelogo.jpeg" width="88" height="88"></h3>
         <ul data-brackets-id='182' class="nav nav-justified">
           <li id="home" data-brackets-id='183' <? if($sec=="home") echo "class=\"active\""; ?> ><a data-brackets-id='184' href="../">Home</a></li>
           <li id="pnight"data-brackets-id='185' <? if($sec=="pnight") echo "class=\"active\""; ?>><a data-brackets-id='186' href="../professional-night">Professional Night</a></li>
